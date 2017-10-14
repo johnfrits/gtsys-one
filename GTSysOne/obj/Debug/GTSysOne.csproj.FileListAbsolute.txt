@@ -1,0 +1,394 @@
+E:\Code\GTSysOne\GTSysOne\bin\Debug\GTSysOne.exe.config
+E:\Code\GTSysOne\GTSysOne\bin\Debug\GTSysOne.exe
+E:\Code\GTSysOne\GTSysOne\bin\Debug\GTSysOne.pdb
+E:\Code\GTSysOne\GTSysOne\bin\Debug\ar\GTSysOne.resources.dll
+E:\Code\GTSysOne\GTSysOne\bin\Debug\en\GTSysOne.resources.dll
+E:\Code\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.Document.frmCompany.resources
+E:\Code\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.Document.frmCountry.resources
+E:\Code\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.Document.frmEmployee.resources
+E:\Code\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.Document.frmNumberingSetup.resources
+E:\Code\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.Document.frmUser.resources
+E:\Code\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.MasterFile.frmAllocationPattern.resources
+E:\Code\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.MasterFile.frmEstablishment.resources
+E:\Code\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.MasterFile.frmTaxArea.resources
+E:\Code\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.MasterFile.frmPriceLevel.resources
+E:\Code\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.MasterFile.frmRegion.resources
+E:\Code\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.MasterFile.frmGroup.resources
+E:\Code\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.MasterFile.frmStation.resources
+E:\Code\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Document.frmCompany.resources
+E:\Code\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Document.frmCountry.resources
+E:\Code\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Document.frmNumberingSetup.resources
+E:\Code\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Document.frmDefault.resources
+E:\Code\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Document.frmUser.resources
+E:\Code\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Main.frmDashboard.resources
+E:\Code\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Main.frmGTSysList.resources
+E:\Code\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Main.frmLicense.resources
+E:\Code\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Main.frmLogIn.resources
+E:\Code\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Main.frmMain.resources
+E:\Code\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Main.frmMessageBox.resources
+E:\Code\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Main.frmRecover.resources
+E:\Code\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Main.frmRegister_Recover.resources
+E:\Code\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Main.frmRegistration.resources
+E:\Code\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Main.frmSplash.resources
+E:\Code\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.MasterFile.frmTaxArea.resources
+E:\Code\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.MasterFile.frmPriceLevel.resources
+E:\Code\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.MasterFile.frmRegion.resources
+E:\Code\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.MasterFile.frmGroup.resources
+E:\Code\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.MasterFile.frmAllocationPattern.resources
+E:\Code\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.MasterFile.frmEstablishment.resources
+E:\Code\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.MasterFile.frmStation.resources
+E:\Code\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.MasterFile.frmDefault.resources
+E:\Code\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Properties.Resources.resources
+E:\Code\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Res.Jay.ar.resources
+E:\Code\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Res.Jay.en.resources
+E:\Code\GTSysOne\GTSysOne\obj\Debug\GTSysOne.csproj.GenerateResource.Cache
+E:\Code\GTSysOne\GTSysOne\obj\Debug\GTSysOne.exe.licenses
+E:\Code\GTSysOne\GTSysOne\obj\Debug\ar\GTSysOne.resources.dll
+E:\Code\GTSysOne\GTSysOne\obj\Debug\en\GTSysOne.resources.dll
+E:\Code\GTSysOne\GTSysOne\obj\Debug\GTSysOne.exe
+E:\Code\GTSysOne\GTSysOne\obj\Debug\GTSysOne.pdb
+E:\Code\GTSysOne\GTSysOne\obj\Debug\GTSysOne.csprojResolveAssemblyReference.cache
+D:\From Idris\March 20 2017 GTSysOne\GTSysOne\GTSysOne\bin\Debug\GTSysOne.exe.config
+D:\From Idris\March 20 2017 GTSysOne\GTSysOne\GTSysOne\obj\Debug\GTSysOne.exe
+D:\From Idris\March 20 2017 GTSysOne\GTSysOne\GTSysOne\obj\Debug\GTSysOne.pdb
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\GTSysOne.exe.config
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\GTSysOne.exe
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\GTSysOne.pdb
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\ar\GTSysOne.resources.dll
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\en\GTSysOne.resources.dll
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\DevExpress.BonusSkins.v15.1.dll
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\DevExpress.Data.v15.1.dll
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\DevExpress.Utils.v15.1.dll
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\DevExpress.XtraBars.v15.1.dll
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\DevExpress.XtraGrid.v15.1.dll
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\DevExpress.XtraLayout.v15.1.dll
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\DevExpress.XtraNavBar.v15.1.dll
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\DevExpress.XtraPrinting.v15.1.dll
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\DevExpress.RichEdit.v15.1.Core.dll
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\DevExpress.XtraTreeList.v15.1.dll
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\DevExpress.Office.v15.1.Core.dll
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\DevExpress.Data.v15.1.xml
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\DevExpress.Utils.v15.1.xml
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\DevExpress.XtraBars.v15.1.xml
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\DevExpress.XtraGrid.v15.1.xml
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\DevExpress.XtraLayout.v15.1.xml
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\DevExpress.XtraNavBar.v15.1.xml
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\DevExpress.XtraPrinting.v15.1.xml
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\DevExpress.RichEdit.v15.1.Core.xml
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\DevExpress.XtraTreeList.v15.1.xml
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\DevExpress.Office.v15.1.Core.xml
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\de\DevExpress.XtraGrid.v15.1.resources.dll
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\es\DevExpress.XtraGrid.v15.1.resources.dll
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\ja\DevExpress.XtraGrid.v15.1.resources.dll
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\ru\DevExpress.XtraGrid.v15.1.resources.dll
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\de\DevExpress.XtraLayout.v15.1.resources.dll
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\es\DevExpress.XtraLayout.v15.1.resources.dll
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\ja\DevExpress.XtraLayout.v15.1.resources.dll
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\ru\DevExpress.XtraLayout.v15.1.resources.dll
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\de\DevExpress.XtraNavBar.v15.1.resources.dll
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\es\DevExpress.XtraNavBar.v15.1.resources.dll
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\ja\DevExpress.XtraNavBar.v15.1.resources.dll
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\ru\DevExpress.XtraNavBar.v15.1.resources.dll
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\de\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\es\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\de\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\es\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\ja\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\ru\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\de\DevExpress.Office.v15.1.Core.resources.dll
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\es\DevExpress.Office.v15.1.Core.resources.dll
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\ja\DevExpress.Office.v15.1.Core.resources.dll
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\bin\Debug\ru\DevExpress.Office.v15.1.Core.resources.dll
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\obj\Debug\GTSysOne.csprojResolveAssemblyReference.cache
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.Document.frmSalesOrder.resources
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.Document.frmSalesQuotation.resources
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.Document.frmCompany.resources
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.Document.frmCountry.resources
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.Document.frmEmployee.resources
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.Document.frmNumberingSetup.resources
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.Document.frmUser.resources
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.MasterFile.frmAllocationPattern.resources
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.MasterFile.frmEstablishment.resources
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.MasterFile.frmTaxArea.resources
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.MasterFile.frmPriceLevel.resources
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.MasterFile.frmRegion.resources
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.MasterFile.frmGroup.resources
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.MasterFile.frmStation.resources
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Document.frmCompany.resources
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Document.frmCountry.resources
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Slip.frmItemBrowser.resources
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Slip.frmCustomerBrowser.resources
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Document.frmSalesQuotation.resources
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Document.frmNumberingSetup.resources
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Document.frmDefault.resources
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Document.frmUser.resources
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Main.frmDashboard.resources
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Main.frmGTSysList.resources
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Main.frmLicense.resources
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Main.frmLogIn.resources
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Main.frmMain.resources
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Main.frmMessageBox.resources
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Main.frmRecover.resources
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Main.frmRegister_Recover.resources
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Main.frmRegistration.resources
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Main.frmSplash.resources
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.MasterFile.frmTaxArea.resources
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.MasterFile.frmPriceLevel.resources
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.MasterFile.frmRegion.resources
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.MasterFile.frmGroup.resources
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.MasterFile.frmAllocationPattern.resources
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.MasterFile.frmEstablishment.resources
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.MasterFile.frmStation.resources
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.MasterFile.frmDefault.resources
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Properties.Resources.resources
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Res.Jay.ar.resources
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Res.Jay.en.resources
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\obj\Debug\GTSysOne.csproj.GenerateResource.Cache
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\obj\Debug\GTSysOne.exe.licenses
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\obj\Debug\ar\GTSysOne.resources.dll
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\obj\Debug\en\GTSysOne.resources.dll
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\obj\Debug\GTSysOne.exe
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\obj\Debug\GTSysOne.pdb
+D:\Working Folder\Freelance\GTS Global Technology System\application_raw\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Slip.frmTaxBrowser.resources
+G:\GTS\GTSysOne\GTSysOne\bin\Debug\GTSysOne.exe.config
+G:\GTS\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.Document.frmSalesOrder.resources
+G:\GTS\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.Document.frmSalesQuotation.resources
+G:\GTS\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.Document.frmCompany.resources
+G:\GTS\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.Document.frmCountry.resources
+G:\GTS\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.Document.frmEmployee.resources
+G:\GTS\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.Document.frmNumberingSetup.resources
+G:\GTS\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.Document.frmUser.resources
+G:\GTS\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.MasterFile.frmAllocationPattern.resources
+G:\GTS\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.MasterFile.frmEstablishment.resources
+G:\GTS\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.MasterFile.frmIdentityType.resources
+G:\GTS\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.MasterFile.frmTaxArea.resources
+G:\GTS\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.MasterFile.frmPriceLevel.resources
+G:\GTS\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.MasterFile.frmRegion.resources
+G:\GTS\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.MasterFile.frmGroup.resources
+G:\GTS\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.MasterFile.frmStation.resources
+G:\GTS\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Document.frmCompany.resources
+G:\GTS\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Document.frmCountry.resources
+G:\GTS\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.MasterFile.frmIdentityType.resources
+G:\GTS\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Slip.frmTaxBrowser.resources
+G:\GTS\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Slip.frmItemBrowser.resources
+G:\GTS\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Slip.frmCustomerBrowser.resources
+G:\GTS\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Document.frmSalesQuotation.resources
+G:\GTS\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Document.frmNumberingSetup.resources
+G:\GTS\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Document.frmDefault.resources
+G:\GTS\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Document.frmUser.resources
+G:\GTS\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Main.frmDashboard.resources
+G:\GTS\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Main.frmGTSysList.resources
+G:\GTS\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Main.frmLicense.resources
+G:\GTS\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Main.frmLogIn.resources
+G:\GTS\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Main.frmMain.resources
+G:\GTS\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Main.frmMessageBox.resources
+G:\GTS\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Main.frmRecover.resources
+G:\GTS\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Main.frmRegister_Recover.resources
+G:\GTS\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Main.frmRegistration.resources
+G:\GTS\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Main.frmSplash.resources
+G:\GTS\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.MasterFile.frmTaxArea.resources
+G:\GTS\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.MasterFile.frmPriceLevel.resources
+G:\GTS\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.MasterFile.frmRegion.resources
+G:\GTS\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.MasterFile.frmGroup.resources
+G:\GTS\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.MasterFile.frmAllocationPattern.resources
+G:\GTS\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.MasterFile.frmEstablishment.resources
+G:\GTS\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.MasterFile.frmStation.resources
+G:\GTS\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.MasterFile.frmDefault.resources
+G:\GTS\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Properties.Resources.resources
+G:\GTS\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Res.Jay.ar.resources
+G:\GTS\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Res.Jay.en.resources
+G:\GTS\GTSysOne\GTSysOne\obj\Debug\GTSysOne.csproj.GenerateResource.Cache
+G:\GTS\GTSysOne\GTSysOne\obj\Debug\GTSysOne.exe.licenses
+G:\GTS\GTSysOne\GTSysOne\obj\Debug\ar\GTSysOne.resources.dll
+G:\GTS\GTSysOne\GTSysOne\obj\Debug\en\GTSysOne.resources.dll
+G:\GTS\GTSysOne\GTSysOne\obj\Debug\GTSysOne.exe
+G:\GTS\GTSysOne\GTSysOne\obj\Debug\GTSysOne.pdb
+G:\GTS\GTSysOne\GTSysOne\obj\Debug\GTSysOne.csprojResolveAssemblyReference.cache
+G:\GTS\GTSysOne\GTSysOne\bin\Debug\GTSysOne.exe
+G:\GTS\GTSysOne\GTSysOne\bin\Debug\GTSysOne.pdb
+G:\GTS\GTSysOne\GTSysOne\bin\Debug\ar\GTSysOne.resources.dll
+G:\GTS\GTSysOne\GTSysOne\bin\Debug\en\GTSysOne.resources.dll
+G:\GTS\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.MasterFile.frmCarModel.resources
+G:\GTS\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.MasterFile.frmCarModel.resources
+G:\GTS\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.MasterFile.frmCarColor.resources
+G:\GTS\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.MasterFile.frmCarColor.resources
+C:\Users\Admin123\Desktop\GTSysOne\GTSysOne\bin\Debug\GTSysOne.exe.config
+C:\Users\Admin123\Desktop\GTSysOne\GTSysOne\bin\Debug\GTSysOne.exe
+C:\Users\Admin123\Desktop\GTSysOne\GTSysOne\bin\Debug\GTSysOne.pdb
+C:\Users\Admin123\Desktop\GTSysOne\GTSysOne\bin\Debug\ar\GTSysOne.resources.dll
+C:\Users\Admin123\Desktop\GTSysOne\GTSysOne\bin\Debug\en\GTSysOne.resources.dll
+C:\Users\Admin123\Desktop\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.Document.frmSalesOrder.resources
+C:\Users\Admin123\Desktop\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.Document.frmSalesQuotation.resources
+C:\Users\Admin123\Desktop\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.Document.frmCompany.resources
+C:\Users\Admin123\Desktop\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.Document.frmCountry.resources
+C:\Users\Admin123\Desktop\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.Document.frmEmployee.resources
+C:\Users\Admin123\Desktop\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.Document.frmNumberingSetup.resources
+C:\Users\Admin123\Desktop\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.Document.frmUser.resources
+C:\Users\Admin123\Desktop\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.MasterFile.frmAllocationPattern.resources
+C:\Users\Admin123\Desktop\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.MasterFile.frmCarColor.resources
+C:\Users\Admin123\Desktop\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.MasterFile.frmCarModel.resources
+C:\Users\Admin123\Desktop\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.MasterFile.frmEstablishment.resources
+C:\Users\Admin123\Desktop\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.MasterFile.frmIdentityType.resources
+C:\Users\Admin123\Desktop\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.MasterFile.frmTaxArea.resources
+C:\Users\Admin123\Desktop\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.MasterFile.frmPriceLevel.resources
+C:\Users\Admin123\Desktop\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.MasterFile.frmRegion.resources
+C:\Users\Admin123\Desktop\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.MasterFile.frmGroup.resources
+C:\Users\Admin123\Desktop\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.MasterFile.frmStation.resources
+C:\Users\Admin123\Desktop\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Document.frmCompany.resources
+C:\Users\Admin123\Desktop\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Document.frmCountry.resources
+C:\Users\Admin123\Desktop\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.MasterFile.frmCarColor.resources
+C:\Users\Admin123\Desktop\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.MasterFile.frmCarModel.resources
+C:\Users\Admin123\Desktop\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.MasterFile.frmIdentityType.resources
+C:\Users\Admin123\Desktop\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Slip.frmTaxBrowser.resources
+C:\Users\Admin123\Desktop\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Slip.frmItemBrowser.resources
+C:\Users\Admin123\Desktop\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Slip.frmCustomerBrowser.resources
+C:\Users\Admin123\Desktop\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Document.frmSalesQuotation.resources
+C:\Users\Admin123\Desktop\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Document.frmNumberingSetup.resources
+C:\Users\Admin123\Desktop\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Document.frmDefault.resources
+C:\Users\Admin123\Desktop\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Document.frmUser.resources
+C:\Users\Admin123\Desktop\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Main.frmDashboard.resources
+C:\Users\Admin123\Desktop\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Main.frmGTSysList.resources
+C:\Users\Admin123\Desktop\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Main.frmLicense.resources
+C:\Users\Admin123\Desktop\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Main.frmLogIn.resources
+C:\Users\Admin123\Desktop\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Main.frmMain.resources
+C:\Users\Admin123\Desktop\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Main.frmMessageBox.resources
+C:\Users\Admin123\Desktop\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Main.frmRecover.resources
+C:\Users\Admin123\Desktop\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Main.frmRegister_Recover.resources
+C:\Users\Admin123\Desktop\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Main.frmRegistration.resources
+C:\Users\Admin123\Desktop\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Main.frmSplash.resources
+C:\Users\Admin123\Desktop\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.MasterFile.frmTaxArea.resources
+C:\Users\Admin123\Desktop\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.MasterFile.frmPriceLevel.resources
+C:\Users\Admin123\Desktop\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.MasterFile.frmRegion.resources
+C:\Users\Admin123\Desktop\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.MasterFile.frmGroup.resources
+C:\Users\Admin123\Desktop\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.MasterFile.frmAllocationPattern.resources
+C:\Users\Admin123\Desktop\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.MasterFile.frmEstablishment.resources
+C:\Users\Admin123\Desktop\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.MasterFile.frmStation.resources
+C:\Users\Admin123\Desktop\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.MasterFile.frmDefault.resources
+C:\Users\Admin123\Desktop\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Properties.Resources.resources
+C:\Users\Admin123\Desktop\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Res.Jay.ar.resources
+C:\Users\Admin123\Desktop\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Res.Jay.en.resources
+C:\Users\Admin123\Desktop\GTSysOne\GTSysOne\obj\Debug\GTSysOne.csproj.GenerateResource.Cache
+C:\Users\Admin123\Desktop\GTSysOne\GTSysOne\obj\Debug\GTSysOne.exe.licenses
+C:\Users\Admin123\Desktop\GTSysOne\GTSysOne\obj\Debug\ar\GTSysOne.resources.dll
+C:\Users\Admin123\Desktop\GTSysOne\GTSysOne\obj\Debug\en\GTSysOne.resources.dll
+C:\Users\Admin123\Desktop\GTSysOne\GTSysOne\obj\Debug\GTSysOne.exe
+C:\Users\Admin123\Desktop\GTSysOne\GTSysOne\obj\Debug\GTSysOne.pdb
+C:\Users\Admin123\Desktop\GTSysOne\GTSysOne\obj\Debug\GTSysOne.csprojResolveAssemblyReference.cache
+C:\Users\Admin123\Desktop\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.MasterFile.frmCarType.resources
+C:\Users\Admin123\Desktop\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.MasterFile.frmCarType.resources
+C:\GTSysOne\GTSysOne\bin\Debug\GTSysOne.exe.config
+C:\GTSysOne\GTSysOne\bin\Debug\GTSysOne.exe
+C:\GTSysOne\GTSysOne\bin\Debug\GTSysOne.pdb
+C:\GTSysOne\GTSysOne\bin\Debug\ar\GTSysOne.resources.dll
+C:\GTSysOne\GTSysOne\bin\Debug\en\GTSysOne.resources.dll
+C:\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.Document.frmRent.resources
+C:\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Report.XrptFile.xrptRent.resources
+C:\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Slip.frmCarBrowser.resources
+C:\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Slip.frmCustomerBrowser.resources
+C:\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.Document.frmSalesOrder.resources
+C:\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.Document.frmSalesQuotation.resources
+C:\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.Document.frmCompany.resources
+C:\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.Document.frmCountry.resources
+C:\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.Document.frmEmployee.resources
+C:\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.Document.frmNumberingSetup.resources
+C:\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.Document.frmUser.resources
+C:\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.MasterFile.frmAllocationPattern.resources
+C:\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.MasterFile.frmCarColor.resources
+C:\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.MasterFile.frmCarModel.resources
+C:\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.MasterFile.frmCarType.resources
+C:\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.MasterFile.frmDriver.resources
+C:\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.MasterFile.frmEstablishment.resources
+C:\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.MasterFile.frmIdentityType.resources
+C:\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.MasterFile.frmRenter.resources
+C:\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.MasterFile.frmTax.resources
+C:\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.MasterFile.frmTaxArea.resources
+C:\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.MasterFile.frmPriceLevel.resources
+C:\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.MasterFile.frmRegion.resources
+C:\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.MasterFile.frmGroup.resources
+C:\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Dashboard.MasterFile.frmStation.resources
+C:\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Document.frmCompany.resources
+C:\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Document.frmCountry.resources
+C:\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Document.frmRent.resources
+C:\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.MasterFile.frmCarColor.resources
+C:\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.MasterFile.frmCarModel.resources
+C:\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.MasterFile.frmCarType.resources
+C:\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.MasterFile.frmDriver.resources
+C:\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.MasterFile.frmIdentityType.resources
+C:\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.MasterFile.frmRenter.resources
+C:\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.MasterFile.frmTax.resources
+C:\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Slip.frmRentCash.resources
+C:\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Slip.frmRentPayment.resources
+C:\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Slip.frmRentSlipCreditCardDetails.resources
+C:\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Slip.frmRentSlipDeposit.resources
+C:\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Slip.frmRentSlipInsurance.resources
+C:\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Slip.frmTaxBrowser.resources
+C:\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Slip.frmItemBrowser.resources
+C:\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Document.frmSalesQuotation.resources
+C:\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Document.frmNumberingSetup.resources
+C:\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Document.frmDefault.resources
+C:\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Document.frmUser.resources
+C:\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Main.frmDashboard.resources
+C:\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Main.frmGTSysList.resources
+C:\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Main.frmLicense.resources
+C:\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Main.frmLogIn.resources
+C:\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Main.frmMain.resources
+C:\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Main.frmMessageBox.resources
+C:\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Main.frmRecover.resources
+C:\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Main.frmRegister_Recover.resources
+C:\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Main.frmRegistration.resources
+C:\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.Main.frmSplash.resources
+C:\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.MasterFile.frmTaxArea.resources
+C:\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.MasterFile.frmPriceLevel.resources
+C:\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.MasterFile.frmRegion.resources
+C:\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.MasterFile.frmGroup.resources
+C:\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.MasterFile.frmAllocationPattern.resources
+C:\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.MasterFile.frmEstablishment.resources
+C:\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.MasterFile.frmStation.resources
+C:\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.MasterFile.frmDefault.resources
+C:\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Properties.Resources.resources
+C:\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Res.Jay.ar.resources
+C:\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Res.Jay.en.resources
+C:\GTSysOne\GTSysOne\obj\Debug\GTSysOne.csproj.GenerateResource.Cache
+C:\GTSysOne\GTSysOne\obj\Debug\GTSysOne.exe.licenses
+C:\GTSysOne\GTSysOne\obj\Debug\ar\GTSysOne.resources.dll
+C:\GTSysOne\GTSysOne\obj\Debug\en\GTSysOne.resources.dll
+C:\GTSysOne\GTSysOne\obj\Debug\GTSysOne.exe
+C:\GTSysOne\GTSysOne\obj\Debug\GTSysOne.pdb
+C:\GTSysOne\GTSysOne\obj\Debug\GTSysOne.csprojResolveAssemblyReference.cache
+C:\GTSysOne\GTSysOne\obj\Debug\GTSysOne.Gui.MasterFile.frmCard.resources

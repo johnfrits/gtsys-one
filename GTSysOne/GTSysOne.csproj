@@ -1,0 +1,802 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5C6EF68D-13CE-486A-ACDB-0D46CBB23541}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GTSysOne</RootNamespace>
+    <AssemblyName>GTSysOne</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>GTSysOne.Class.Utility.Program</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>GTSysOne.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.BonusSkins.v15.1, Version=15.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Charts.v15.1.Core, Version=15.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v15.1, Version=15.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.DataAccess.v15.1, Version=15.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Office.v15.1.Core, Version=15.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.PivotGrid.v15.1.Core, Version=15.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Printing.v15.1.Core, Version=15.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.RichEdit.v15.1.Core, Version=15.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Sparkline.v15.1.Core, Version=15.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v15.1, Version=15.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v15.1.UI, Version=15.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Xpo.v15.1, Version=15.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraBars.v15.1, Version=15.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v15.1, Version=15.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v15.1, Version=15.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGauges.v15.1.Core, Version=15.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v15.1, Version=15.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v15.1, Version=15.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraNavBar.v15.1, Version=15.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v15.1, Version=15.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraReports.v15.1, Version=15.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v15.1.Extensions, Version=15.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class\Document\clsDoc_Customer.cs" />
+    <Compile Include="Class\Document\clsDoc_Rent.cs" />
+    <Compile Include="Class\Document\clsDoc_SalesQuotation.cs" />
+    <Compile Include="Class\Document\clsDoc_Company.cs" />
+    <Compile Include="Class\Document\clsDoc_Country.cs" />
+    <Compile Include="Class\Document\clsDoc_Lcg.cs" />
+    <Compile Include="Class\Document\clsDoc_NumberingSetup.cs" />
+    <Compile Include="Class\Document\clsDoc_User.cs" />
+    <Compile Include="Class\Document\clsDoc_UserPrivilege.cs" />
+    <Compile Include="Class\Mapping\clsMap_CardType.cs" />
+    <Compile Include="Class\Mapping\clsMap_DateFormat.cs" />
+    <Compile Include="Class\Mapping\clsMap_EstablishmentStatus.cs" />
+    <Compile Include="Class\Mapping\clsMap_Language.cs" />
+    <Compile Include="Class\Mapping\clsMap_Module.cs" />
+    <Compile Include="Class\Mapping\clsMap_Nationality.cs" />
+    <Compile Include="Class\Mapping\clsMap_NumberingSegment.cs" />
+    <Compile Include="Class\Mapping\clsMap_PaymentMode.cs" />
+    <Compile Include="Class\Mapping\clsMap_Privilege.cs" />
+    <Compile Include="Class\Mapping\clsMap_RentStatus.cs" />
+    <Compile Include="Class\Mapping\clsMap_RentType.cs" />
+    <Compile Include="Class\MasterFile\clsMas_AllocationPattern.cs" />
+    <Compile Include="Class\MasterFile\clsMas_CarColor.cs" />
+    <Compile Include="Class\MasterFile\clsMas_CarModel.cs" />
+    <Compile Include="Class\MasterFile\clsMas_CarType.cs" />
+    <Compile Include="Class\MasterFile\clsMas_Card.cs" />
+    <Compile Include="Class\MasterFile\clsMas_Currency.cs" />
+    <Compile Include="Class\MasterFile\clsMas_Driver.cs" />
+    <Compile Include="Class\MasterFile\clsMas_Establishment.cs" />
+    <Compile Include="Class\MasterFile\clsMas_ExchangeRate.cs" />
+    <Compile Include="Class\MasterFile\clsMas_FixedAssets.cs" />
+    <Compile Include="Class\MasterFile\clsMas_Function.cs" />
+    <Compile Include="Class\MasterFile\clsMas_Group.cs" />
+    <Compile Include="Class\MasterFile\clsMas_IdentityType.cs" />
+    <Compile Include="Class\MasterFile\clsMas_InventorySettings.cs" />
+    <Compile Include="Class\MasterFile\clsMas_ItemMaster.cs" />
+    <Compile Include="Class\MasterFile\clsMas_MiscCode.cs" />
+    <Compile Include="Class\MasterFile\clsMas_PriceLevel.cs" />
+    <Compile Include="Class\MasterFile\clsMas_Region.cs" />
+    <Compile Include="Class\MasterFile\clsMas_Renter.cs" />
+    <Compile Include="Class\MasterFile\clsMas_Station.cs" />
+    <Compile Include="Class\MasterFile\clsMas_TaxArea.cs" />
+    <Compile Include="Class\MasterFile\clsMas_Tax.cs" />
+    <Compile Include="Class\Slip\clsSlip_EstablishmentSettings.cs" />
+    <Compile Include="Class\Slip\clsSlip_FixedAssets.cs" />
+    <Compile Include="Class\Slip\clsSlip_IMCost.cs" />
+    <Compile Include="Class\Slip\clsSlip_IMLot.cs" />
+    <Compile Include="Class\Slip\clsSlip_IMPrice.cs" />
+    <Compile Include="Class\Slip\clsSlip_IMQuantity.cs" />
+    <Compile Include="Class\Slip\clsSlip_IMSerial.cs" />
+    <Compile Include="Class\Slip\clsSlip_IMUnitOfMeasure.cs" />
+    <Compile Include="Class\Slip\clsSlip_NumberingSetup.cs" />
+    <Compile Include="Class\Slip\clsSlip_Rent.cs" />
+    <Compile Include="Class\Slip\clsSlip_RentCash.cs" />
+    <Compile Include="Class\Slip\clsSlip_RentCreditCardDetails.cs" />
+    <Compile Include="Class\Slip\clsSlip_RentDeposit.cs" />
+    <Compile Include="Class\Slip\clsSlip_RentInsurance.cs" />
+    <Compile Include="Class\Slip\clsSlip_RentPayment.cs" />
+    <Compile Include="Class\Slip\clsSlip_SalesQuotation.cs" />
+    <Compile Include="Class\Slip\clsSlip_Sequence.cs" />
+    <Compile Include="Class\Slip\clsSlip_UserCompanyAccess.cs" />
+    <Compile Include="Class\Slip\clsSlip_UserEstablishmentAccess.cs" />
+    <Compile Include="Class\Slip\clsSlip_UserPrivilege.cs" />
+    <Compile Include="Class\Utility\clsExecution.cs" />
+    <Compile Include="Class\Utility\clsGlobal.cs" />
+    <Compile Include="Class\Utility\clsUtility.cs" />
+    <Compile Include="Class\Utility\Program.cs" />
+    <Compile Include="Gui\Dashboard\Document\frmRent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\Dashboard\Document\frmRent.Designer.cs">
+      <DependentUpon>frmRent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\Report\DataSet\dsRent.cs">
+      <DependentUpon>dsRent.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Gui\Report\DataSet\dsRent.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsRent.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\Report\XrptFile\xrptRent.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Gui\Report\XrptFile\xrptRent.Designer.cs">
+      <DependentUpon>xrptRent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\Report\XrptFile\XtraReport1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Gui\Report\XrptFile\XtraReport1.Designer.cs">
+      <DependentUpon>XtraReport1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\Slip\frmCarBrowser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\Slip\frmCarBrowser.Designer.cs">
+      <DependentUpon>frmCarBrowser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\Slip\frmCustomerBrowser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\Slip\frmCustomerBrowser.Designer.cs">
+      <DependentUpon>frmCustomerBrowser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\Dashboard\Document\frmSales_Order.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\Dashboard\Document\frmSales_Order.Designer.cs">
+      <DependentUpon>frmSales_Order.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\Dashboard\Document\frmSales_Quotation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\Dashboard\Document\frmSales_Quotation.Designer.cs">
+      <DependentUpon>frmSales_Quotation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\Dashboard\Document\frmCompany.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\Dashboard\Document\frmCompany.Designer.cs">
+      <DependentUpon>frmCompany.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\Dashboard\Document\frmCountry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\Dashboard\Document\frmCountry.Designer.cs">
+      <DependentUpon>frmCountry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\Dashboard\Document\frmEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\Dashboard\Document\frmEmployee.Designer.cs">
+      <DependentUpon>frmEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\Dashboard\Document\frmNumberingSetup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\Dashboard\Document\frmNumberingSetup.Designer.cs">
+      <DependentUpon>frmNumberingSetup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\Dashboard\Document\frmUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\Dashboard\Document\frmUser.Designer.cs">
+      <DependentUpon>frmUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\Dashboard\MasterFile\frmAllocationPattern.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\Dashboard\MasterFile\frmAllocationPattern.Designer.cs">
+      <DependentUpon>frmAllocationPattern.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\Dashboard\MasterFile\frmCarColor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\Dashboard\MasterFile\frmCarColor.Designer.cs">
+      <DependentUpon>frmCarColor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\Dashboard\MasterFile\frmCarModel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\Dashboard\MasterFile\frmCarModel.Designer.cs">
+      <DependentUpon>frmCarModel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\Dashboard\MasterFile\frmCarType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\Dashboard\MasterFile\frmCarType.Designer.cs">
+      <DependentUpon>frmCarType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\Dashboard\MasterFile\frmDriver.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\Dashboard\MasterFile\frmDriver.Designer.cs">
+      <DependentUpon>frmDriver.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\Dashboard\MasterFile\frmEstablishment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\Dashboard\MasterFile\frmEstablishment.Designer.cs">
+      <DependentUpon>frmEstablishment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\Dashboard\MasterFile\frmIdentityType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\Dashboard\MasterFile\frmIdentityType.Designer.cs">
+      <DependentUpon>frmIdentityType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\Dashboard\MasterFile\frmRenter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\Dashboard\MasterFile\frmRenter.Designer.cs">
+      <DependentUpon>frmRenter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\Dashboard\MasterFile\frmTax.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\Dashboard\MasterFile\frmTax.Designer.cs">
+      <DependentUpon>frmTax.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\Dashboard\MasterFile\frmTaxArea.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\Dashboard\MasterFile\frmTaxArea.Designer.cs">
+      <DependentUpon>frmTaxArea.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\Dashboard\MasterFile\frmPriceLevel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\Dashboard\MasterFile\frmPriceLevel.Designer.cs">
+      <DependentUpon>frmPriceLevel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\Dashboard\MasterFile\frmRegion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\Dashboard\MasterFile\frmRegion.Designer.cs">
+      <DependentUpon>frmRegion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\Dashboard\MasterFile\frmGroup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\Dashboard\MasterFile\frmGroup.Designer.cs">
+      <DependentUpon>frmGroup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\Dashboard\MasterFile\frmStation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\Dashboard\MasterFile\frmStation.Designer.cs">
+      <DependentUpon>frmStation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\Document\frmCompany.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\Document\frmCompany.Designer.cs">
+      <DependentUpon>frmCompany.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\Document\frmCountry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\Document\frmCountry.Designer.cs">
+      <DependentUpon>frmCountry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\Document\frmRent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\Document\frmRent.Designer.cs">
+      <DependentUpon>frmRent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\MasterFile\frmCarColor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\MasterFile\frmCarColor.Designer.cs">
+      <DependentUpon>frmCarColor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\MasterFile\frmCarModel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\MasterFile\frmCarModel.Designer.cs">
+      <DependentUpon>frmCarModel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\MasterFile\frmCarType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\MasterFile\frmCarType.Designer.cs">
+      <DependentUpon>frmCarType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\MasterFile\frmCard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\MasterFile\frmCard.Designer.cs">
+      <DependentUpon>frmCard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\MasterFile\frmDriver.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\MasterFile\frmDriver.Designer.cs">
+      <DependentUpon>frmDriver.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\MasterFile\frmIdentityType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\MasterFile\frmIdentityType.Designer.cs">
+      <DependentUpon>frmIdentityType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\MasterFile\frmRenter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\MasterFile\frmRenter.Designer.cs">
+      <DependentUpon>frmRenter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\MasterFile\frmTax.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\MasterFile\frmTax.Designer.cs">
+      <DependentUpon>frmTax.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\Slip\frmRentCash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\Slip\frmRentCash.Designer.cs">
+      <DependentUpon>frmRentCash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\Slip\frmRentPayment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\Slip\frmRentPayment.Designer.cs">
+      <DependentUpon>frmRentPayment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\Slip\frmRentSlipCreditCardDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\Slip\frmRentSlipCreditCardDetails.Designer.cs">
+      <DependentUpon>frmRentSlipCreditCardDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\Slip\frmRentSlipDeposit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\Slip\frmRentSlipDeposit.Designer.cs">
+      <DependentUpon>frmRentSlipDeposit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\Slip\frmRentSlipInsurance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\Slip\frmRentSlipInsurance.Designer.cs">
+      <DependentUpon>frmRentSlipInsurance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\Slip\frmTaxBrowser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\Slip\frmTaxBrowser.Designer.cs">
+      <DependentUpon>frmTaxBrowser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\Slip\frmItemBrowser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\Slip\frmItemBrowser.Designer.cs">
+      <DependentUpon>frmItemBrowser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\Document\frmSales_Quotation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\Document\frmSales_Quotation.Designer.cs">
+      <DependentUpon>frmSales_Quotation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\Document\frmNumberingSetup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\Document\frmNumberingSetup.Designer.cs">
+      <DependentUpon>frmNumberingSetup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\Document\frmDefault.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\Document\frmDefault.Designer.cs">
+      <DependentUpon>frmDefault.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\Document\frmUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\Document\frmUser.Designer.cs">
+      <DependentUpon>frmUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\Main\frmDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\Main\frmDashboard.Designer.cs">
+      <DependentUpon>frmDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\Main\frmGTSysList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\Main\frmGTSysList.Designer.cs">
+      <DependentUpon>frmGTSysList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\Main\frmLicense.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\Main\frmLicense.Designer.cs">
+      <DependentUpon>frmLicense.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\Main\frmLogIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\Main\frmLogIn.Designer.cs">
+      <DependentUpon>frmLogIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\Main\frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\Main\frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\Main\frmMessageBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\Main\frmMessageBox.Designer.cs">
+      <DependentUpon>frmMessageBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\Main\frmRecover.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\Main\frmRecover.Designer.cs">
+      <DependentUpon>frmRecover.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\Main\frmRegister_Recover.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\Main\frmRegister_Recover.Designer.cs">
+      <DependentUpon>frmRegister_Recover.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\Main\frmRegistration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\Main\frmRegistration.Designer.cs">
+      <DependentUpon>frmRegistration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\Main\frmSplash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\Main\frmSplash.Designer.cs">
+      <DependentUpon>frmSplash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\MasterFile\frmTaxArea.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\MasterFile\frmTaxArea.Designer.cs">
+      <DependentUpon>frmTaxArea.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\MasterFile\frmPriceLevel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\MasterFile\frmPriceLevel.Designer.cs">
+      <DependentUpon>frmPriceLevel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\MasterFile\frmRegion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\MasterFile\frmRegion.Designer.cs">
+      <DependentUpon>frmRegion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\MasterFile\frmGroup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\MasterFile\frmGroup.Designer.cs">
+      <DependentUpon>frmGroup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\MasterFile\frmAllocationPattern.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\MasterFile\frmAllocationPattern.Designer.cs">
+      <DependentUpon>frmAllocationPattern.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\MasterFile\frmEstablishment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\MasterFile\frmEstablishment.Designer.cs">
+      <DependentUpon>frmEstablishment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\MasterFile\frmStation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\MasterFile\frmStation.Designer.cs">
+      <DependentUpon>frmStation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\MasterFile\frmDefault.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\MasterFile\frmDefault.Designer.cs">
+      <DependentUpon>frmDefault.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Gui\Dashboard\Document\frmRent.resx">
+      <DependentUpon>frmRent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\Report\XrptFile\xrptRent.resx">
+      <DependentUpon>xrptRent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\Slip\frmCarBrowser.resx">
+      <DependentUpon>frmCarBrowser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\Slip\frmCustomerBrowser.resx">
+      <DependentUpon>frmCustomerBrowser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\Dashboard\Document\frmSales_Order.resx">
+      <DependentUpon>frmSales_Order.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\Dashboard\Document\frmSales_Quotation.resx">
+      <DependentUpon>frmSales_Quotation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\Dashboard\Document\frmCompany.resx">
+      <DependentUpon>frmCompany.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\Dashboard\Document\frmCountry.resx">
+      <DependentUpon>frmCountry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\Dashboard\Document\frmEmployee.resx">
+      <DependentUpon>frmEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\Dashboard\Document\frmNumberingSetup.resx">
+      <DependentUpon>frmNumberingSetup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\Dashboard\Document\frmUser.resx">
+      <DependentUpon>frmUser.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\Dashboard\MasterFile\frmAllocationPattern.resx">
+      <DependentUpon>frmAllocationPattern.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\Dashboard\MasterFile\frmCarColor.resx">
+      <DependentUpon>frmCarColor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\Dashboard\MasterFile\frmCarModel.resx">
+      <DependentUpon>frmCarModel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\Dashboard\MasterFile\frmCarType.resx">
+      <DependentUpon>frmCarType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\Dashboard\MasterFile\frmDriver.resx">
+      <DependentUpon>frmDriver.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\Dashboard\MasterFile\frmEstablishment.resx">
+      <DependentUpon>frmEstablishment.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\Dashboard\MasterFile\frmIdentityType.resx">
+      <DependentUpon>frmIdentityType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\Dashboard\MasterFile\frmRenter.resx">
+      <DependentUpon>frmRenter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\Dashboard\MasterFile\frmTax.resx">
+      <DependentUpon>frmTax.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\Dashboard\MasterFile\frmTaxArea.resx">
+      <DependentUpon>frmTaxArea.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\Dashboard\MasterFile\frmPriceLevel.resx">
+      <DependentUpon>frmPriceLevel.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\Dashboard\MasterFile\frmRegion.resx">
+      <DependentUpon>frmRegion.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\Dashboard\MasterFile\frmGroup.resx">
+      <DependentUpon>frmGroup.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\Dashboard\MasterFile\frmStation.resx">
+      <DependentUpon>frmStation.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\Document\frmCompany.resx">
+      <DependentUpon>frmCompany.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\Document\frmCountry.resx">
+      <DependentUpon>frmCountry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\Document\frmRent.resx">
+      <DependentUpon>frmRent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\MasterFile\frmCarColor.resx">
+      <DependentUpon>frmCarColor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\MasterFile\frmCarModel.resx">
+      <DependentUpon>frmCarModel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\MasterFile\frmCarType.resx">
+      <DependentUpon>frmCarType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\MasterFile\frmCard.resx">
+      <DependentUpon>frmCard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\MasterFile\frmDriver.resx">
+      <DependentUpon>frmDriver.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\MasterFile\frmIdentityType.resx">
+      <DependentUpon>frmIdentityType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\MasterFile\frmRenter.resx">
+      <DependentUpon>frmRenter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\MasterFile\frmTax.resx">
+      <DependentUpon>frmTax.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\Slip\frmRentCash.resx">
+      <DependentUpon>frmRentCash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\Slip\frmRentPayment.resx">
+      <DependentUpon>frmRentPayment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\Slip\frmRentSlipCreditCardDetails.resx">
+      <DependentUpon>frmRentSlipCreditCardDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\Slip\frmRentSlipDeposit.resx">
+      <DependentUpon>frmRentSlipDeposit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\Slip\frmRentSlipInsurance.resx">
+      <DependentUpon>frmRentSlipInsurance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\Slip\frmTaxBrowser.resx">
+      <DependentUpon>frmTaxBrowser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\Slip\frmItemBrowser.resx">
+      <DependentUpon>frmItemBrowser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\Document\frmSales_Quotation.resx">
+      <DependentUpon>frmSales_Quotation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\Document\frmNumberingSetup.resx">
+      <DependentUpon>frmNumberingSetup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\Document\frmDefault.resx">
+      <DependentUpon>frmDefault.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\Document\frmUser.resx">
+      <DependentUpon>frmUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\Main\frmDashboard.resx">
+      <DependentUpon>frmDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\Main\frmGTSysList.resx">
+      <DependentUpon>frmGTSysList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\Main\frmLicense.resx">
+      <DependentUpon>frmLicense.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\Main\frmLogIn.resx">
+      <DependentUpon>frmLogIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\Main\frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\Main\frmMessageBox.resx">
+      <DependentUpon>frmMessageBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\Main\frmRecover.resx">
+      <DependentUpon>frmRecover.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\Main\frmRegister_Recover.resx">
+      <DependentUpon>frmRegister_Recover.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\Main\frmRegistration.resx">
+      <DependentUpon>frmRegistration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\Main\frmSplash.resx">
+      <DependentUpon>frmSplash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\MasterFile\frmTaxArea.resx">
+      <DependentUpon>frmTaxArea.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\MasterFile\frmPriceLevel.resx">
+      <DependentUpon>frmPriceLevel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\MasterFile\frmRegion.resx">
+      <DependentUpon>frmRegion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\MasterFile\frmGroup.resx">
+      <DependentUpon>frmGroup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\MasterFile\frmAllocationPattern.resx">
+      <DependentUpon>frmAllocationPattern.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\MasterFile\frmEstablishment.resx">
+      <DependentUpon>frmEstablishment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\MasterFile\frmStation.resx">
+      <DependentUpon>frmStation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\MasterFile\frmDefault.resx">
+      <DependentUpon>frmDefault.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Res\Jay.ar.resx" />
+    <EmbeddedResource Include="Res\Jay.en.resx" />
+    <None Include="app.config" />
+    <None Include="Gui\Report\DataSet\dsRent.xsc">
+      <DependentUpon>dsRent.xsd</DependentUpon>
+    </None>
+    <None Include="Gui\Report\DataSet\dsRent.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsRent.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Gui\Report\DataSet\dsRent.xss">
+      <DependentUpon>dsRent.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Gui\Report\Forms\" />
+    <Folder Include="Resources\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="GTSysOne.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
